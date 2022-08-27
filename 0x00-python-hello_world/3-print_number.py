@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-'{},Battery street'.format(number)
+number = 98
+f"{number} Battery street"
